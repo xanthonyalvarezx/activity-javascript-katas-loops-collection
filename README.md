@@ -1,4 +1,4 @@
-# Assessment: Javascript Katas 1 #
+# Assessment: JavaScript Katas 1 #
 
 ### Overview ###
 
