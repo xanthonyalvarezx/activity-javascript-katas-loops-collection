@@ -31,7 +31,7 @@ Code added below the commented out line:
 For this assessment, you will have access to testing tools as you work.  To test your work as you go, follow these instructions:
 
 1. If you already have node/npm installed, skip this step.  From your terminal, run the command `brew install node`. Verify the install completed by running `node --version` (You should see something like `v8.12.0` or similar), then `npm --version` (You should see something like `6.4.1` or similar)
-2. If you already have the kenzie testing npm package, skip this step.  Again from your terminal, run the command `npm install --global git+https://github.com/jragard/kenzie-testing`
+2. If you already have the kenzie testing npm package, skip this step.  Again from your terminal, run the command ` sudo npm install --global git+https://github.com/jragard/kenzie-testing`
 3. You can test the functions in your katas1.js file by navigating to the katas1 directory that holds your file.  When you are in the same directory as your `katas1.js` file, run the terminal command `kenzie-test katas1`.  You will receive instant feedback in your terminal.  You can run these tests repeatedly as you complete the katas to verify that your solutions are correct.
 
 # For Graders #
