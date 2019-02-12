@@ -34,12 +34,10 @@ For this assessment, you will have access to testing tools as you work.  To test
 2. If you already have the kenzie testing npm package, skip this step.  Again from your terminal, run the command ` sudo npm install --global git+https://github.com/jragard/kenzie-testing`
 3. You can test the functions in your katas1.js file by navigating to the katas1 directory that holds your file.  When you are in the same directory as your `katas1.js` file, run the terminal command `kenzie-test katas1`.  You will receive instant feedback in your terminal.  You can run these tests repeatedly as you complete the katas to verify that your solutions are correct.
 
-# For Graders #
-
-For this assessment, students will submit their Gitlab Project ID #.  To grade:
-
-1.  If you haven't already, run `npm install --global git+https://github.com/jragard/kenzie-testing` to install the testing package.
-2.  Run `kenzie-test katas1 -g <Project ID>`  The results will be displayed in your terminal.
+**Troubleshooting** If the testing tools aren't working for you, try the following:
+    - From your terminal, run `sudo chown -R $USER /usr/local/lib/node_modules`
+    - From your terminal, run `npm install -g mocha`
+    - Then, just for a sanity check, run `npm install --global git+https://github.com/jragard/kenzie-testing` again.
 
 
 ### Katas
@@ -56,8 +54,7 @@ For this assessment, students will submit their Gitlab Project ID #.  To grade:
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
 
-### Submission ###
+Push your code into your GitLab repository and use the GitLab Pages feature to allow your site to be viewed directly. In Canvas, please submit your Project ID number, located directly under your project name (see below) and as always, add KA_SE5 as a member on your project with "Reporter" permission.
 
-Push your code into your GitLab repository and use the GitLab Pages feature to allow your site to be viewed directly. In Canvas, please add KA_SE5 as a member on your project with "Reporter" permission, and submit your gitlab pages url, **with your Project ID number included as a comment on your submission**.  Your Project ID number is located directly under your project name (see below).
 
 ![](project_id.png)
