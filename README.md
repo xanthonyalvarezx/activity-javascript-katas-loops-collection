@@ -36,7 +36,9 @@ For this assessment, you will have access to testing tools as you work.  To test
 
 **Troubleshooting** If the testing tools aren't working for you, try the following:
     1. From your terminal, run `sudo chown -R $USER /usr/local/lib/node_modules`
+    
     2. From your terminal, run `npm install -g mocha`
+    
     3. Then, just for a sanity check, run `npm install --global git+https://github.com/jragard/kenzie-testing` again.
 
 
