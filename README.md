@@ -35,9 +35,9 @@ For this assessment, you will have access to testing tools as you work.  To test
 3. You can test the functions in your katas1.js file by navigating to the katas1 directory that holds your file.  When you are in the same directory as your `katas1.js` file, run the terminal command `kenzie-test katas1`.  You will receive instant feedback in your terminal.  You can run these tests repeatedly as you complete the katas to verify that your solutions are correct.
 
 **Troubleshooting** If the testing tools aren't working for you, try the following:
-    - From your terminal, run `sudo chown -R $USER /usr/local/lib/node_modules`
-    - From your terminal, run `npm install -g mocha`
-    - Then, just for a sanity check, run `npm install --global git+https://github.com/jragard/kenzie-testing` again.
+    1. From your terminal, run `sudo chown -R $USER /usr/local/lib/node_modules`
+    2. From your terminal, run `npm install -g mocha`
+    3. Then, just for a sanity check, run `npm install --global git+https://github.com/jragard/kenzie-testing` again.
 
 
 ### Katas
