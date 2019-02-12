@@ -56,7 +56,8 @@ For this assessment, students will submit their Gitlab Project ID #.  To grade:
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
 
-Push your code into your GitLab repository and use the GitLab Pages feature to allow your site to be viewed directly. In Canvas, please submit your Project ID number, located directly under your project name (see below) and as always, add KA_SE5 as a member on your project with "Reporter" permission.
+### Submission ###
 
+Push your code into your GitLab repository and use the GitLab Pages feature to allow your site to be viewed directly. In Canvas, please add KA_SE5 as a member on your project with "Reporter" permission, and submit your gitlab pages url, **with your Project ID number included as a comment on your submission**.  Your Project ID number is located directly under your project name (see below).
 
 ![](project_id.png)
