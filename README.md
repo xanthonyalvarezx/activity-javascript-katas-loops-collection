@@ -54,7 +54,4 @@ For this assessment, you will have access to testing tools as you work.  To test
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
 
-Push your code into your GitLab repository. In Canvas, **please submit your Gitlab Project url (ex: https://gitlab.com/jragard/katas1) AND your Project ID number**, which is located directly under your project name (see below) and as always, add KA_SE5 as a member on your project with "Reporter" permission.
-
-
-![](project_id.png)
+Push your code into your GitLab repository. In Canvas, **please submit your Gitlab Project url (ex: https://gitlab.com/username/katas1)** and add KA_SE5 as a member on your project with "Reporter" permission.
