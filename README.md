@@ -26,6 +26,22 @@ Code added below the commented out line:
     numbers.push(counter)
 }`
 
+To test your functions, you will need to call them. Following the above example, 
+we would write `oneThroughFive()` to call the function oneThroughFive. To see 
+what this function returns in the console, we can write `console.log(oneThroughFive())`.
+So for the example above, the final function and subsequent function call would look
+like this:
+```
+function oneThroughFive() {
+    const numbers = [];
+    for(let counter = 1; counter <= 5; counter++) {
+        numbers.push(counter)
+    }
+    return numbers;
+}
+console.log(oneThroughFive())
+```
+
 
 ### Katas
 
@@ -41,4 +57,6 @@ Code added below the commented out line:
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
 
-Push your code into your GitLab repository. In Canvas, **please submit your Gitlab Project url (ex: https://gitlab.com/username/katas1)** and in GitLab add KA_grading as a member on your project with "Reporter" permission.
+Push your code into your GitLab repository. In Canvas, **please submit your Gitlab 
+Project url (ex: https://gitlab.com/username/katas1)** and in GitLab add KA_grading
+as a member on your project with "Reporter" permission.
