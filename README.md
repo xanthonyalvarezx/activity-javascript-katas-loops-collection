@@ -2,15 +2,15 @@
 
 ### Overview ###
 
-A [kata](https://en.wikipedia.org/wiki/Kata_(programming)) is an individual exercise where you practice a programming skill through repetition. Today you will practice using JavaScript loops, conditionals, and expressions through a series of katas.
+A [kata](https://en.wikipedia.org/wiki/Kata_(programming)) is an individual exercise where you practice a programming skill through repetition. Today you will practice using JavaScript loops, conditionals, and expressions through a series of katas.
 
-To start, go [here](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_js-katas-1/blob/master/katas1.js) and download the katas1.js file. Put the file in a directory/folder named `katas1`.
-Fill in the missing code in each function, using a `for` or `while` loop.  Use numbers.push() in your loop to add each 
+To start, go [here](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_js-katas-1) and [fork](https://docs.gitlab.com/ee/gitlab-basics/fork-project.html) and clone the repo.
+Fill in the missing code inside the katas1.js file for each function. Use a `for` or `while` loop inside each function.  Use numbers.push() in your loop to add each 
 number to the empty 'numbers' array, which will be returned in the last line of the function.  Each correctly completed kata is worth 1 point.
 
 ### Example ###
 
-```
+```js
 function oneThroughFive() {
     const numbers = [];
 
@@ -20,25 +20,21 @@ function oneThroughFive() {
 }
 ```
 
-Code added below the commented out line:
-
-`for(let counter = 1; counter <= 5; counter++) {
-    numbers.push(counter)
-}`
-
 To test your functions, you will need to call them. Following the above example, 
 we would write `oneThroughFive()` to call the function oneThroughFive. To see 
 what this function returns in the console, we can write `console.log(oneThroughFive())`.
 So for the example above, the final function and subsequent function call would look
 like this:
-```
+
+```js
 function oneThroughFive() {
     const numbers = [];
-    for(let counter = 1; counter <= 5; counter++) {
+    for (let counter = 1; counter <= 5; counter++) {
         numbers.push(counter)
     }
     return numbers;
 }
+
 console.log(oneThroughFive())
 ```
 
@@ -46,7 +42,6 @@ console.log(oneThroughFive())
 ### Katas
 
 1.  Return the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
-
 2.  Return the even numbers from 1 to 20. (2, 4, 6,...18,20)
 3.  Return the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
 4.  Return the multiples of 5 up to 100. (5, 10, 15, ..., 95, 100)
