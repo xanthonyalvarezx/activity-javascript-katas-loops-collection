@@ -52,6 +52,6 @@ console.log(oneThroughFive())
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
 
-Push your code into your GitLab repository. In Canvas, **please submit your Gitlab 
-Project url (ex: https://gitlab.com/username/katas1)** and in GitLab add KA_grading
+Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, **please submit your Gitlab 
+Pages url (ex: https://petem14.gitlab.io/js-katas-02/)** and in GitLab add KA_grading
 as a member on your project with "Reporter" permission.
