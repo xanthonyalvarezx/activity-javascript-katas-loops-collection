@@ -45,12 +45,12 @@ console.log(oneThroughFive())
 2.  Return the even numbers from 1 to 20. (2, 4, 6,...18,20)
 3.  Return the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
 4.  Return the multiples of 5 up to 100. (5, 10, 15, ..., 95, 100)
-5.  Return the square numbers up to 100. (1, 4, 9, ..., 81, 100)
+5.  Return all numbers up to 100 that are perfect squares. (1, 4, 9, ..., 81, 100)
 6.  Return the numbers counting backwards from 20 to 1. (20, 19, 18, ..., 2, 1)
 7.  Return the even numbers counting backwards from 20. (20, 18, 16, ..., 4, 2)
 8.  Return the odd numbers from 20 to 1, counting backwards. (19, 17, 15, ..., 3, 1)
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
-10.  Return the square numbers, counting down from 100. (100, 81, 64, ..., 4, 1)
+10. Return the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
 
 Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, **please submit your Gitlab 
 Pages url (ex: https://username.gitlab.io/js-katas-01/)** and in GitLab add KA_grading
