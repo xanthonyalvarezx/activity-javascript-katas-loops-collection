@@ -7,7 +7,7 @@ A [kata](https://en.wikipedia.org/wiki/Kata_(programming)) is an individual exer
 To start, go fork then clone [https://github.com/erics273/js__loop__function__katas](https://github.com/erics273/js_loop_function_katas).
 
 Fill in the missing code inside the katas1.js file for each function. Use a `for` or `while` loop inside each function.  Identify the correct numbers in your loop and add each 
-number to the empty 'numbers' array, which will be returned in the last line of the function.  Each correctly completed kata is worth 1 point.
+number to the empty 'numbers' array, which will be returned in the last line of the function.
 
 ### Example ###
 
@@ -52,7 +52,3 @@ console.log(oneThroughFive())
 8.  Return the odd numbers from 20 to 1, counting backwards. (19, 17, 15, ..., 3, 1)
 9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
 10. Return the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
-
-Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, **please submit your Gitlab 
-Pages url (ex: https://username.gitlab.io/js-katas-01/)** and in GitLab add KA_grading
-as a member on your project with "Reporter" permission.
