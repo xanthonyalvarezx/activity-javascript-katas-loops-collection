@@ -1,79 +1,85 @@
 function oneThroughTwenty() {
-    const numbers = []
-
-    // Your code goes below
     
-    return numbers;
+   /* Your code goes below
+   Write a for or a while loop
+   console.log() the result*/
+    
 }
 
 function evensToTwenty() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+   /* Your code goes below
+   Write a for or a while loop
+   console.log() the result */
+   
+   
 }
 
 function oddsToTwenty() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+  /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
+   
+   
 }
 
 function multiplesOfFive() {
-    const numbers = []
     
-    // Your code goes below
+  /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 
-    return numbers;
+    
 }
+
 
 function squareNumbers() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+ /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
+    
 }
+
 
 function countingBackwards() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+  /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 }
+
+
 
 function evenNumbersBackwards() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+ /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 }
+
+
 
 function oddNumbersBackwards() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+ /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 }
 
-function multiplesOfFiveBackwards() {
-    const numbers = []
-    
-    // Your code goes below
 
-    return numbers;
+
+function multiplesOfFiveBackwards() {
+    
+ /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 }
 
 function squareNumbersBackwards() {
-    const numbers = []
     
-    // Your code goes below
-
-    return numbers;
+   /* Your code goes below
+  Write a for or a while loop
+  console.log() the result */
 }
