@@ -52,5 +52,5 @@ oneThroughFive()
 10. Return the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
 
 Push your code into your GitLab repository and deploy it via GitLab pages. In Canvas, **please submit your Gitlab 
-Pages url (ex: https://username.gitlab.io/js-katas-01/)** and in GitLab add KA_grading
-as a member on your project with "Reporter" permission.
+Repo and in the comments your Gitlab Pages url (ex: https://username.gitlab.io/js-katas-01/)** and in GitLab 
+add KA_grading as a member on your project with "Reporter" permission.
