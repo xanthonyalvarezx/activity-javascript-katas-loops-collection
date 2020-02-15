@@ -1,5 +1,3 @@
-# Activity: JavaScript Katas (loops and functions)
-
 ### Overview ###
 
 A [kata](https://en.wikipedia.org/wiki/Kata_(programming)) is an individual exercise where you practice a programming skill through repetition. Today you will practice using JavaScript loops, conditionals, and expressions through a series of katas.
