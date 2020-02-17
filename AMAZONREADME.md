@@ -40,4 +40,4 @@ Complete the functions in katas1.js so that they output the following:
 7. the even numbers counting backwards from 20. (20, 18, 16, ..., 4, 2)
 8. the odd numbers from 20 to 1, counting backwards. (19, 17, 15, ..., 3, 1)
 9. the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
-10.the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
+10. the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
