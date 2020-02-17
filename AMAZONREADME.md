@@ -30,13 +30,14 @@ oneThroughFive();
 
 ## Katas
 
-1.  Return the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
-2.  Return the even numbers from 1 to 20. (2, 4, 6,...18,20)
-3.  Return the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
-4.  Return the multiples of 5 up to 100. (5, 10, 15, ..., 95, 100)
-5.  Return all numbers up to 100 that are perfect squares. (1, 4, 9, ..., 81, 100)
-6.  Return the numbers counting backwards from 20 to 1. (20, 19, 18, ..., 2, 1)
-7.  Return the even numbers counting backwards from 20. (20, 18, 16, ..., 4, 2)
-8.  Return the odd numbers from 20 to 1, counting backwards. (19, 17, 15, ..., 3, 1)
-9.  Return the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
-10. Return the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
+Write a function that outputs:
+1. the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
+2. the even numbers from 1 to 20. (2, 4, 6,...18,20)
+3. the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
+4. the multiples of 5 up to 100. (5, 10, 15, ..., 95, 100)
+5. all numbers up to 100 that are perfect squares. (1, 4, 9, ..., 81, 100)
+6. the numbers counting backwards from 20 to 1. (20, 19, 18, ..., 2, 1)
+7. the even numbers counting backwards from 20. (20, 18, 16, ..., 4, 2)
+8. the odd numbers from 20 to 1, counting backwards. (19, 17, 15, ..., 3, 1)
+9. the multiples of 5, counting down from 100. (100, 95, 90, ..., 10, 5)
+10.the numbers that are perfect squares, counting down from 100. (100, 81, 64, ..., 4, 1)
