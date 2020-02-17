@@ -1,44 +1,34 @@
-### Overview ###
+## Overview
 
-A [kata](https://en.wikipedia.org/wiki/Kata_(programming)) is an individual exercise where you practice a programming skill through repetition. Today you will practice using JavaScript loops, conditionals, and expressions through a series of katas.
+A [kata](<https://en.wikipedia.org/wiki/Kata_(programming)>) is an individual exercise where you practice a programming skill through repetition. Today you will practice using JavaScript loops, conditionals, and expressions through a series of katas.
 
-To start, go fork then clone [https://github.com/erics273/js__loop__function__katas](https://github.com/erics273/js_loop_function_katas).
+To start, go [here](https://gitlab.com/kenzie-academy/se/fe/getting-started-with-javascript/s_js-katas-1) then [fork](https://docs.gitlab.com/ee/gitlab-basics/fork-project.html) and [clone](http://docs.gitlab.com/ee/gitlab-basics/start-us%20ing-git.html#clone-a-repository) the repo.
+Fill in the missing code inside the katas1.js file for each function. Use a `for` or `while` loop inside each function. Use console.log() to display your result in the console. Each correctly completed kata is worth 1 point.
 
-Fill in the missing code inside the katas1.js file for each function. Use a `for` or `while` loop inside each function.  Identify the correct numbers in your loop and add each 
-number to the empty 'numbers' array, which will be returned in the last line of the function.
-
-### Example ###
+### Example
 
 ```js
 function oneThroughFive() {
-    const numbers = [];
-
-    // Your code goes below
-
-    return numbers;
+  // Your code goes below
 }
 ```
 
-To test your functions, you will need to call them. Following the above example, 
-we would write `oneThroughFive()` to call the function oneThroughFive. To see 
-what this function returns in the console, we can write `console.log(oneThroughFive())`.
+To test your functions, you will need to call them. Following the above example,
+we would write `oneThroughFive()` to call the function oneThroughFive.
 So for the example above, the final function and subsequent function call would look
 like this:
 
 ```js
 function oneThroughFive() {
-    const numbers = [];
-    for (let counter = 1; counter <= 5; counter++) {
-        numbers.push(counter)
-    }
-    return numbers;
+  for (let counter = 1; counter <= 5; counter++) {
+    console.log(counter);
+  }
 }
 
-console.log(oneThroughFive())
+oneThroughFive();
 ```
 
-
-### Katas
+## Katas
 
 1.  Return the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
 2.  Return the even numbers from 1 to 20. (2, 4, 6,...18,20)
