@@ -30,7 +30,7 @@ oneThroughFive();
 
 ## Katas
 
-Write a function that outputs:
+Write functions that output the following:
 1. the numbers from 1 to 20. (1, 2, 3,..., 19, 20)
 2. the even numbers from 1 to 20. (2, 4, 6,...18,20)
 3. the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
