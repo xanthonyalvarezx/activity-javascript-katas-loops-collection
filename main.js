@@ -5,13 +5,11 @@
 **/
 
   console.log('%cKATA 1 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
-
-  let counter = 1
-  while (counter <= 20) {
-    console.log(counter)
-    counter += 1
-  }
-
+let counter = 1
+  while(counter <= 20){
+  console.log(counter)
+  counter +=1
+}
 /** KATA 02 ⮕
 ***
 *** Log the even numbers from 1 to 20. (2, 4, 6,...18,20)
@@ -22,17 +20,25 @@
 
 
   /* Write your KATA 02 code in place of THIS comment. */
+ counter2 = 2
+while(counter2 <= 20){
+console.log(counter2)
+counter2 = counter2 + 2
+}
 
-
-/** KATA 03 ⮕
+/** KATA 03 ⮕2
 ***
 *** Log the odd numbers from 1 to 20. (1, 3, 5,...,17,19)
 ***
 ***/
 
   console.log('%cKATA 03 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
- 
 
+  counter3 = 1
+  while(counter3 <= 20){
+  console.log(counter3)
+  counter3 = counter3 + 2
+  }
   /* Write your KATA 03 code in place of THIS comment. */
 
 
@@ -46,7 +52,12 @@
 
 
   /* Write your KATA 04 code in place of THIS comment. */
-
+  let counter4 = 0
+  while (counter4 <= 100){
+    console.log(counter4)
+    counter4 +=5
+  }
+  
 
 /** KATA 05 ⮕
 ***
@@ -55,7 +66,14 @@
 ***/
 
   console.log('%cKATA 05 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
-
+  let counter5 = 1
+  while (counter5 <= 100){
+    const isSquare = Number.isInteger(Math.sqrt(counter5))
+    if (isSquare){
+    console.log(counter5)
+    }
+    counter5 += (1)
+  }
 
   /* Write your KATA 05 code in place of THIS comment. */
 
@@ -67,6 +85,11 @@
 ***/
 
   console.log('%cKATA 06 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
+let counter6 = 20
+while (counter6 > 0 ){
+console.log(counter6)
+counter6 -= 1
+}
 
 
   /* Write your KATA 06 code in place of THIS comment. */
@@ -80,7 +103,11 @@
 
   console.log('%cKATA 07 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-
+let counter7 = 20
+while (counter7 > 0){
+console.log(counter7)
+counter7 -= 2
+}
   /* Write your KATA 07 code in place of THIS comment. */
 
 
@@ -92,7 +119,14 @@
 
   console.log('%cKATA 08 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-
+  let counter8 = 20
+  while(counter8 > 19){
+    counter8 -= 1
+  }
+  while (counter8 > 0 ){
+  console.log(counter8)
+  counter8 -= 2
+  }
   /* Write your KATA 08 code in place of THIS comment. */
 
 
@@ -103,6 +137,11 @@
 ***/
 
   console.log('%cKATA 09 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
+let counter9 = 100
+while (counter9 > 0){
+  console.log(counter9)
+  counter9 -=5
+}
 
 
   /* Write your KATA 09 code in place of THIS comment. */
@@ -118,7 +157,14 @@
 
 
   /* Write your KATA 10 code in place of THIS comment. */
-
+  let counter10 = 100
+  while (counter10 >= 0){
+    const isSquare = Number.isInteger(Math.sqrt(counter10))
+    if (isSquare){
+    console.log(counter10)
+    }
+    counter10 -= (1)
+  }
 
 
 
