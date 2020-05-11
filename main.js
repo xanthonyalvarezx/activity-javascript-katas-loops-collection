@@ -5,14 +5,12 @@
 **/
 
   console.log('%cKATA 1 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
-  
+
   let counter = 1
   while (counter <= 20) {
     console.log(counter)
     counter += 1
   }
-
-
 
 /** KATA 02 ⮕
 ***
@@ -22,8 +20,8 @@
 
   console.log('%cKATA 02 RESULTS:', 'background: darkblue; color: white; font-weight: bold;') // These console.logs are just to help make the console log better organized and more readable
 
-  /* Write your KATA 02 code in place of THIS comment. */
 
+  /* Write your KATA 02 code in place of THIS comment. */
 
 
 /** KATA 03 ⮕
@@ -34,8 +32,8 @@
 
   console.log('%cKATA 03 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
  
-  /* Write your KATA 03 code in place of THIS comment. */
 
+  /* Write your KATA 03 code in place of THIS comment. */
 
 
 /** KATA 04 ⮕
@@ -46,8 +44,8 @@
 
   console.log('%cKATA 04 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 04 code in place of THIS comment. */
 
+  /* Write your KATA 04 code in place of THIS comment. */
 
 
 /** KATA 05 ⮕
@@ -58,8 +56,8 @@
 
   console.log('%cKATA 05 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 05 code in place of THIS comment. */
 
+  /* Write your KATA 05 code in place of THIS comment. */
 
 
 /** KATA 06 ⮕
@@ -70,8 +68,8 @@
 
   console.log('%cKATA 06 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 06 code in place of THIS comment. */
 
+  /* Write your KATA 06 code in place of THIS comment. */
 
 
 /** KATA 07 ⮕
@@ -82,8 +80,8 @@
 
   console.log('%cKATA 07 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 07 code in place of THIS comment. */
 
+  /* Write your KATA 07 code in place of THIS comment. */
 
 
 /** KATA 08 ⮕
@@ -94,8 +92,8 @@
 
   console.log('%cKATA 08 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 08 code in place of THIS comment. */
 
+  /* Write your KATA 08 code in place of THIS comment. */
 
 
 /** KATA 09 ⮕
@@ -106,8 +104,8 @@
 
   console.log('%cKATA 09 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
-  /* Write your KATA 09 code in place of THIS comment. */
 
+  /* Write your KATA 09 code in place of THIS comment. */
 
 
 /** KATA 10 ⮕
@@ -118,9 +116,9 @@
 
   console.log('%cKATA 10 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
 
+
   /* Write your KATA 10 code in place of THIS comment. */
 
 
 
 
-  
